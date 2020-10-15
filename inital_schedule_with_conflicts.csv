@@ -1,0 +1,646 @@
+crn,title,days,instructor,max_enrollment,building,room,capacity_number
+84526,Intro to Aerospace Eng,F,Demoret,76,410GLE,107,241
+84527,Aerospace Fundamentals,TR,Wilde,55,501OEC,118,73
+84528,Aerospace Fundamentals,TR,Kirk,55,410GLE,107,241
+84582,Mech of Materials,TR,TBA,55,410GLE,107,241
+84583,Mech of Materials,TR,Fleming,50,500OLS,130,50
+84585,Fluid Mechanics,MW,Subramanian,42,410GLE,107,241
+84586,Fluid Mechanics,MW,Zhang,36,710FTC,244,42
+84587,Fluid Mechanics,MW,Sepri,48,428EVL,133,68
+84568,Experimental Aerodynam,MW,Kish,77,Hartley,1,115
+84556,Rockets & Mission Anal,TR,Archambault,45,410GLE,107,241
+85643,Rockets & Mission Anal,TR,TBA,24,420CRF,404,24
+84558,Space Flight Mechanics,TR,TBA,59,410GLE,107,241
+84557,Space Flight Mechanics,TR,TBA,52,501OEC,118,73
+84559,Aero Eng Design 1,MW,Demoret,70,501OEC,118,73
+85644,Space Vehicle Control,TR,TBA,18,710FTC,244,42
+85645,Finite Element Fund,MW,Fleming,9,428EVL,133,68
+84560,Viscous Flows,TR,Subramanian,16,460SKU,106,22
+84561,Computnl Fluid Dynamic,MW,Archambault,20,420CRF,401,24
+84563,Struct Dynamics,T,Rusovici,28,410GLE,107,241
+84555,Aerospace Eng Seminar,F,Fleming,20,410GLE,107,241
+82849,Aviation Psychology,MWF,Carstens,26,420CRF,112,49
+80739,Intro to Human Factors,TR,Mehta,32,420CRF,112,49
+82595,Intro to Human Factors,MWF,Mehta,24,420CRF,402,24
+85271,Human-Machine Systems,TR,Carroll,15,710FTC,245,16
+82187,Intro to Aviation,MWF,TBA,22,420CRF,112,49
+81543,Aviation Planning,TR,Marron,15,710FTC,244,42
+85221,Aviation Planning,MWF,Marron,22,500OLS,130,50
+80522,Airport Design,MWF,Jones,22,460SKU,106,22
+81421,Transportation Logisti,MWF,Rankin,59,Hartley,1,115
+80477,Aviation Adv Computer,MW,Marron,13,402QAD,110,18
+80775,Aviation Adv Computer,TR,Marron,14,428EVL,133,68
+81028,AutoCAD for Airport En,T,Jones,7,420CRF,404,24
+80533,Aviation Law,TR,TBA,39,710FTC,244,42
+85160,General Aviation Ops &,MW,Lundgren,23,500OLS,130,50
+83719,Air Transportation Mgm,TR,Oyman,40,710FTC,244,42
+81424,Avt Business Simulatio,TR,Turgut,10,710FTC,245,16
+80060,Airport Management,MWF,Wallace,15,500OLS,129,32
+80060,Airport Management,MWF,Wallace,15,710FTC,244,42
+80661,Planning & Design Fund,MWF,Jones,22,420CRF,401,24
+85593,Airport Operations,MWF,Rankin,15,403QAD,117,17
+80061,Aviation Meteorology,MWF,Tumbiolo,56,501OEC,118,73
+83718,Aviation Meteorology,TR,Splitt,22,420CRF,401,24
+80406,Aviation Physical Scie,MWF,TBA,23,420CRF,112,49
+84725,Aviation Physical Scie,TR,TBA,22,460SKU,106,22
+80826,Aerodynamics,TR,Cain,50,410GLE,107,241
+83739,Aviation Meteorology 2,TR,Splitt,16,420CRF,402,24
+85011,Aviation Meteorology 2,MWF,Splitt,22,420CRF,402,24
+81688,Unmanned Aerial Sys,M,Wilt,19,502OPS,140,28
+81768,Aviation Security,MWF,Rankin,22,710FTC,244,42
+84415,Aviation Security,W,Karim,36,410GLE,107,241
+85168,Aviation Systems Safet,TR,Cain,31,420CRF,112,49
+85168,Aviation Systems Safet,T,Cain,31,710FTC,244,42
+85596,Avt Mete Thry and Prac,TR,Splitt,6,420CRF,112,49
+82260,Aviation Statistics,MW,Gallo,15,500OLS,130,50
+81917,Quant Res in Aviation,MW,Gallo,15,410GLE,107,241
+82129,Research Practicum,T,Gallo,15,402QAD,110,18
+81164,Aeronautics 1,MWF,TBA,16,403QAD,116,21
+85171,Aeronautics 1,MWF,Pittorie,17,710FTC,244,42
+81165,Aeronautics 1,TR,Pittorie,22,410GLE,107,241
+85598,Aeronautics 1,TR,Pittorie,22,460SKU,110,59
+81167,Aeronautics 2,TR,Lundgren,25,460SKU,110,59
+84105,Aeronautics 2,MWF,Fox,33,500OLS,130,50
+81166,Aeronautics 3,TR,Fox,22,410GLE,107,241
+83797,Aeronautics 3,MWF,Fox,22,460SKU,116,22
+85636,Aeronautics 3,MWF,Wilt,15,420CRF,404,24
+81202,Aeronautics 4,MWF,Pittorie,25,420CRF,230,27
+82526,National Airspace Syst,MWF,Wilt,15,420CRF,402,24
+81423,Aviation Career Planni,W,TBA,80,410GLE,107,241
+80777,Instructional Tech,MWF,Wilt,15,420CRF,210,27
+84106,Air Traffic Control 1,W,Read,6,500OLS,129,32
+85167,Air Traffic Control 1,TR,Wallace,15,420CRF,403,24
+85600,Air Traffic Control 1,TR,Wallace,22,410GLE,107,241
+82132,Aviation Research,MWF,Wheeler,15,460SKU,102,22
+82703,Aviation Research,TR,Deaton,15,460SKU,219,15
+80064,Advanced Aircraft Syst,T,TBA,30,710FTC,244,42
+80523,Adv Aircraft Operation,MWF,Malmquist,17,420CRF,210,27
+83591,Airline Operations,TR,Lundgren,15,403QAD,116,21
+80827,Aviation Safety,MWF,Malmquist,40,710FTC,244,42
+81297,Avt Accident Invest,TR,Jones,15,460SKU,206,15
+85615,Ethic/Prof Conduct in,T,Harvey,12,502OPS,144,17
+84391,Behavior Change Tech,TR,Harvey,16,402QAD,110,18
+85616,Beh & Cont Society,MW,Tilka,13,410GLE,107,241
+85802,Capstone PBA 2,W,TBA,16,420CRF,112,49
+85800,Ethics for BA 2,T,Martinez-Diaz,16,410GLE,107,241
+81184,Beh & Functional Asses,R,Harvey,16,420CRF,402,24
+81187,Exp Eval of Interventi,T,Wilder,16,460SKU,102,22
+82020,Exp Analysis of Behavi,M,TBA,16,501OEC,118,73
+85084,Introduction to OBM,W,Tilka,12,424LNK,256,14
+85085,Training & Development,R,Weatherly,16,410GLE,107,241
+85617,Apps of Beh Analys to,T,Nicholson,10,424LNK,255,10
+85185,Biological Discovery 1,MWF,TBA,50,500OLS,130,50
+80110,Biological Discovery 1,MWF,Palmer,17,402QAD,113,18
+85184,Biological Discovery 2,MWF,TBA,50,501OEC,118,73
+84269,Introduction to Biotec,T,Palmer,12,500OLS,129,32
+84271,Introduction to Biotec,T,Palmer,12,460SKU,106,22
+84273,Introduction to Biotec,T,Palmer,20,410GLE,107,241
+84275,Introduction to Biotec,W,Palmer,12,420CRF,527,12
+84277,Intro Biodiv and Phys,R,Miller,12,460SKU,106,22
+84279,Intro Biodiv and Phys,R,Miller,13,420CRF,212,17
+84281,Intro Biodiv and Phys,R,Miller,12,119EVH,202,13
+84283,Intro Biodiv and Phys,W,Miller,12,402QAD,113,18
+80427,General Genetics,MWF,Carroll,60,410GLE,107,241
+82833,Anatomy &  Physiology,TR,Bruhn,50,460SKU,110,59
+80123,Biochemistry 1,MWF,Polson,48,500OLS,130,50
+85605,Biochemistry 2,TR,Xu,6,500OLS,130,50
+85606,Special Topics Molecul,MWF,Leonard,6,460SKU,102,22
+85608,Special Topics Molecul,MWF,Guisbert,11,403QAD,114,12
+85609,Special Topics Molecul,MWF,Leonard,4,420CRF,402,24
+80137,Cell Biology,TR,Grimwade,50,500OLS,130,50
+82835,Molecular Basis of Dis,TR,Grimwade,27,502OPS,140,28
+81791,Applied Physiology,MW,Bertetta,16,420CRF,402,24
+80175,Biological Sciences Se,R,Fiedler,15,460SKU,106,22
+81732,Intro to Biomed Engr,MW,Kaya,64,410GLE,107,241
+82868,Biofluid Mechanics,TR,Chivukula,33,410GLE,107,241
+81835,Biomechanics,TR,Gu,33,428EVL,133,68
+81834,Comp Meth for Bio Sys,TR,Guarin Lopez,26,410GLE,107,241
+85175,Special Topics in BME,M,Brenner,15,460SKU,106,22
+82866,Tissue Engineering,TR,Bashur,22,420CRF,220,27
+85555,Transport in Bio Sys,TR,Mitra,32,420CRF,112,49
+82092,Biomed Engr Design 1,TR,Conway,27,502OPS,140,28
+85847,Intro Biomedical Imagi,TR,Mitra,9,402QAD,111,18
+83720,Neuroengineering,TR,Bertetta,20,403QAD,116,21
+85172,Biomed Instrumentation,MW,Dehghanojamah,8,420CRF,620,9
+82870,BME Analysis 1,TR,Conway,32,Hartley,1,115
+81997,BME Seminar,F,TBA,24,Hartley,1,115
+81098,Transport Processes,MWF,Kishore,22,501OEC,118,73
+81098,Transport Processes,W,Kishore,22,410GLE,107,241
+85061,Chemical Process Contr,MWF,Whitlow,16,420CRF,220,27
+81290,Separation Processes,MWF,Tomadakis,22,500OLS,129,32
+81290,Separation Processes,MF,Tomadakis,22,420CRF,403,24
+81863,Chemical Eng Reactor D,TR,Reza,22,420CRF,402,24
+80200,Chm Engr Plant Design,W,Whitlow,16,502OPS,144,17
+85581,Materials Character La,M,Brenner,24,420CRF,402,24
+82344,Equilibrium Thermodyna,MWF,Pozo de Ferna,27,410GLE,107,241
+80004,General Chemistry 1,MWF,Smeltz,81,Hartley,1,115
+80003,General Chemistry 1,MWF,Smeltz,93,Hartley,1,115
+80006,General Chemistry 1,MWF,Smeltz,34,420CRF,112,49
+80007,General Chemistry 1,MWF,Smeltz,38,410GLE,107,241
+80394,General Chemistry 2,MWF,Wehmschulte,40,410GLE,107,241
+80013,Organic Chemistry 1,MWF,Brown,50,460SKU,110,59
+85637,Organic Chemistry 1,MWF,Takenaka,10,402QAD,110,18
+81826,Organic Chemistry 1,MWF,Brown,28,410GLE,107,241
+80014,Organic Chemistry 2,MWF,Nesnas,33,710FTC,244,42
+80020,Physical Chemistry 1,MWF,Peverati,27,420CRF,230,27
+80023,Analytical Chemistry 1,MWF,TBA,17,420CRF,220,27
+80025,Inorganic Chemistry 1,MWF,Wehmschulte,22,460SKU,110,59
+80551,Adv Analytical Chemist,MWF,Pathirathna,17,500OLS,130,50
+80026,Advanced Organic Chemi,MWF,Brown,24,420CRF,401,24
+81617,Phys Biochem,W,Akhremitchev,17,410GLE,107,241
+80028,Chemistry Seminar,R,TBA,30,710FTC,244,42
+81693,Green Chemistry,M,Knight,15,402QAD,113,18
+82962,Spc Top Analytical Che,MW,Chouinard,15,420CRF,212,17
+80033,Chemistry Graduate Sem,R,TBA,25,410GLE,107,241
+82320,Data Structures & Prog,W,Parenteau,17,402QAD,110,18
+82896,Mobile Apps Des & Imp,S,Holbert,17,420CRF,404,24
+81238,Advanced Programming,MW,Delgado,18,460SKU,110,59
+82654,Int of Database Sys,T,Parenteau,16,460SKU,102,22
+85570,Intro to Computer Syst,R,Shaykhian,22,502OPS,140,28
+85808,Web Programming,M,Shaykhian,12,710FTC,245,16
+80106,Composition and Rhetor,MWF,TBA,20,460SKU,120,22
+80107,Composition and Rhetor,MWF,Patterson,17,403QAD,116,21
+80108,Composition and Rhetor,MWF,Dorfeld,11,403QAD,116,21
+80111,Composition and Rhetor,TR,Mallak,20,500OLS,130,50
+80116,Composition and Rhetor,MWF,Finnegan,22,460SKU,102,22
+80120,Composition and Rhetor,TR,Fleishman,10,502OPS,140,28
+80126,Composition and Rhetor,MWF,Dorfeld,15,420CRF,112,49
+80127,Composition and Rhetor,MWF,Belyi,11,420CRF,402,24
+80408,Composition and Rhetor,MWF,Belyi,11,403QAD,117,17
+81707,Composition and Rhetor,MWF,Finnegan,12,410GLE,107,241
+80996,Composition and Rhetor,TR,TBA,12,500OLS,130,50
+81045,Composition and Rhetor,TR,Mallak,16,402QAD,113,18
+81299,Composition and Rhetor,MWF,Patterson,12,119EVH,202,13
+81828,Composition and Rhetor,TR,Mallak,12,420CRF,402,24
+85634,Composition and Rhetor,TR,TBA,12,710FTC,244,42
+80997,Composition and Rhetor,MW,Belyi,11,119EVH,202,13
+81114,Composition and Rhetor,TR,Stanfield,21,420CRF,112,49
+81115,Composition and Rhetor,TR,Stanfield,12,410GLE,107,241
+81240,Writing About Literatu,TR,Lelekis,22,460SKU,106,22
+80424,Writing About Literatu,MWF,Crofton,17,420CRF,212,17
+80380,Writing About Literatu,MWF,Crofton,11,420CRF,610,12
+81300,Writing About Literatu,MWF,Patterson,12,403QAD,118,12
+80519,Writing About Literatu,TR,Lavelle,20,420CRF,404,24
+81837,Writing About Literatu,MWF,Finnegan,22,460SKU,110,59
+81022,Writing About Literatu,TR,Lavelle,21,460SKU,106,22
+82032,Writing About Literatu,MWF,Finnegan,22,420CRF,220,27
+82047,Writing About Literatu,MWF,Patterson,12,402QAD,113,18
+81116,Writing About Literatu,MW,TBA,11,420CRF,403,24
+81213,Writing About Literatu,TR,Fleishman,12,402QAD,113,18
+82121,Writing About Literatu,TR,Fleishman,12,403QAD,114,12
+80853,Research Sources and S,M,Stripling,24,420CRF,402,24
+80129,Research Sources and S,T,Perez,24,502OPS,140,28
+81989,Research Sources and S,T,Perez,24,Hartley,1,115
+80409,Sci/Tech Comm,MWF,Mazo,18,502OPS,140,28
+80130,Sci/Tech Comm,MWF,Irvin,18,420CRF,210,27
+81063,Sci/Tech Comm,MWF,Irvin,13,Hartley,1,115
+80132,Sci/Tech Comm,TR,Bradley,17,403QAD,116,21
+81301,Sci/Tech Comm,MWF,Irvin,9,500OLS,130,50
+80549,Sci/Tech Comm,MWF,Irvin,16,502OPS,144,17
+80737,Sci/Tech Comm,TR,Bradley,18,403QAD,116,21
+80781,Sci/Tech Comm,TR,Bradley,17,403QAD,117,17
+81588,Sci/Tech Comm,TR,Yuran,18,420CRF,402,24
+82086,Sci/Tech Comm,MWF,Laakman,18,Hartley,1,115
+81883,Sci/Tech Comm,MWF,Mazo,18,460SKU,106,22
+82378,Sci/Tech Comm,MW,Laakman,17,420CRF,210,27
+81064,Sci/Tech Comm,T,Yuran,18,403QAD,116,21
+81742,Sci/Tech Comm,R,Gallop,18,710FTC,244,42
+80379,Bus/Prof Wrtg,TR,Gallop,14,420CRF,112,49
+81882,Bus/Prof Wrtg,TR,Gallop,18,460SKU,106,22
+82379,Bus/Prof Wrtg,TR,Gallop,12,402QAD,111,18
+81622,Writing for Media,TR,TBA,9,420CRF,230,27
+80268,Speech,MWF,TBA,14,403QAD,117,17
+81420,Intro to Communication,TR,Yuran,14,460SKU,206,15
+85577,Intro to Visual Comm,MW,Sohn,9,460SKU,219,15
+84416,Photography,MW,Sohn,9,710FTC,245,16
+80270,Prof Comm for Execs,MWF,Laakman,18,420CRF,403,24
+80269,Prof Comm for Execs,MWF,Mazo,19,410GLE,107,241
+80880,Prof Comm for Execs,MWF,Mazo,18,420CRF,404,24
+81744,Prof Comm for Execs,MWF,Laakman,18,420CRF,402,24
+81065,Public Relations,TR,Bradley,12,500OLS,129,32
+85578,Online Reporting,TR,Petersen,9,460SKU,206,15
+82380,Res Meth Tech & Prof C,W,Sohn,9,420CRF,402,24
+83589,Communication Theory,M,Edwards,12,420CRF,402,24
+85579,Qualitative Research M,T,Petersen,9,420CRF,401,24
+82548,Construction Plans & B,F,Ahn,14,410GLE,107,241
+81547,Statics & Mechanics/Co,MW,Bleakley,9,460SKU,103,12
+81399,Construction Methods,TR,Bleakley,30,Hartley,1,115
+81548,Construction Controls,TR,Ahn,17,403QAD,117,17
+81915,Electrical Systems,TR,Nguyen,14,420CRF,112,49
+81592,Construction Safety,F,Bleakley,18,420CRF,220,27
+81796,Const Project Proposal,M,Nguyen,14,403QAD,116,21
+80215,Fund of Software Dev 1,MWF,Crawford,48,500OLS,130,50
+80273,Fund of Software Dev 1,MWF,Crawford,48,420CRF,112,49
+80471,Fund of Software Dev 2,MWF,Slhoub,64,428EVL,133,68
+80216,Comp Discip & Careers,M,Parenteau,40,410GLE,107,241
+85215,Applied Discrete Mathe,MWF,Subasi,72,Hartley,1,115
+82373,Algorithms & Data Stru,MW,Chan,50,410GLE,107,241
+82178,Comp Org Machine Prog,TR,Caraway,22,460SKU,116,22
+81382,Intro to Software Eng,TR,Bhattacharyya,65,501OEC,118,73
+81725,Comp Arch and Assembly,MW,Silaghi,23,410GLE,107,241
+85572,Computer Networks,TR,Allen,25,500OLS,129,32
+85573,Computer Networks,TR,Allen,30,410GLE,107,241
+82361,Software Testing 1,MW,Slhoub,23,420CRF,402,24
+85108,Intro to Cybersecurity,TR,O'Connor,16,402QAD,113,18
+81292,Opr Systems Concepts,TR,Ribeiro,46,460SKU,110,59
+81753,Database Systems,TR,Silaghi,41,500OLS,130,50
+80416,Intro Ana of Algorithm,MWF,Shoaff,55,501OEC,118,73
+83723,Formal Lang/Auto Th,MWF,Stansifer,22,420CRF,220,27
+80448,Computer Science Proj,MWF,Chan,36,500OLS,130,50
+80817,Computer Science Proj,MWF,Shoaff,25,420CRF,230,27
+82362,Prog Language Concepts,MWF,Stansifer,33,710FTC,244,42
+81383,Intro Art Intelligence,TR,Mitra,26,410GLE,107,241
+85208,Spc Top in Comp Scienc,TR,Mitra,25,410GLE,107,241
+85805,Spc Top in Comp Scienc,TR,Stansifer,20,420CRF,402,24
+85603,Requirements Engineeri,T,Doule,18,460SKU,110,59
+85803,Data Analysis Methods,MWF,Nembhard,22,500OLS,130,50
+80542,Computer Networks,MW,Lee,27,420CRF,230,27
+80532,Computer Science Semin,F,Chan,55,410GLE,107,241
+80042,Intro to Civil Engr,TR,Cosentino,70,Hartley,1,115
+80396,Computer Applications,F,Nguyen,12,710FTC,245,16
+80404,Computer Applications,R,Nguyen,12,403QAD,117,17
+80405,Engineering Materials,TR,Suksawang,37,410GLE,107,241
+81913,Struct Ana and Design,TR,Pinelli,45,500OLS,130,50
+83735,Municipal W & WW Syste,MW,Nikolopoulos,15,420CRF,403,24
+80765,Engr Econ and Planning,TR,Gaal,28,500OLS,129,32
+80319,Reinforced Conc Struct,TR,Suksawang,22,420CRF,220,27
+82405,Foundation Design,TR,Cosentino,19,500OLS,130,50
+80357,Transportation Engrng,TR,Mesa Arango,21,420CRF,401,24
+81049,Construction Cost Eng,TR,Ahn,39,410GLE,107,241
+80046,Design Project 1,M,Nguyen,22,420CRF,402,24
+84469,Advanced Steel Design,MW,Miller,20,420CRF,404,24
+84663,Sel Top in Civil Engr,W,LeFrancois,15,460SKU,121,16
+85124,Host & App Security,TR,Allen,20,460SKU,102,22
+81942,Biometric Authenticati,MW,King,15,500OLS,130,50
+81271,Digital Logic,TR,Kozaitis,27,420CRF,230,27
+80672,Circuit Theory 1,MWF,Murshid,27,410GLE,107,241
+80444,Soft/Hardware Design,MW,Joe-Yen,36,710FTC,244,42
+80083,Electronics,TR,Kozaitis,55,410GLE,107,241
+80442,Signals and Systems,TR,Anagnostopoul,22,501OEC,118,73
+81239,Electromagnetic Fields,TR,Lail,44,428EVL,133,68
+80084,Digital State Machines,MWF,Bernhard,23,410GLE,107,241
+81354,Microcomputer Systems,TR,Kepuska,53,410GLE,107,241
+81295,Control Systems,MWF,Zec,26,420CRF,230,27
+80086,System Design 1,MWF,Caraway,40,460SKU,110,59
+80095,Elec & Electronic Circ,TR,McCreary,49,500OLS,130,50
+82247,Elec & Electronic Circ,TR,Delgado,22,460SKU,120,22
+80769,Radio Frequency Propag,MWF,Kostanic,28,500OLS,130,50
+80096,Linear Systems 1,MWF,Kostanic,22,420CRF,402,24
+80602,Communications Theory,MW,Zec,17,403QAD,116,21
+80942,Digital Signal Process,MW,Kozaitis,22,Hartley,1,115
+81782,Pattern Recognition,TR,Anagnostopoul,17,460SKU,106,22
+85786,Optical Electronics,TR,Murshid,22,410GLE,107,241
+85649,Fld Thry Guided Waves,MW,Lail,28,420CRF,112,49
+81623,Search & Decoding in S,MW,Kepuska,18,460SKU,116,22
+81426,Survey of Sci 1: Phys,TR,Hamed,27,501OEC,118,73
+81427,Survey of Sci 1: Phys,TR,Hamed,42,710FTC,244,42
+85143,Perspectives Sci/Math,TR,Park,5,Hartley,1,115
+81182,Ed Strategies for ESOL,F,Marlasca,9,420CRF,210,27
+80438,Essentials of Ed Resea,TR,Fowler,17,420CRF,230,27
+81196,Intro Computers in Ed,TR,Meyer,21,428EVL,133,68
+85003,Informal Sci Edu Inter,TR,Marcinkowski,9,402QAD,113,18
+85627,Envir Prob & Issue Inv,TR,Marcinkowski,9,403QAD,117,17
+80364,Readings in Ed Researc,W,Marcinkowski,9,420CRF,403,24
+81197,Statistics for Ed Resc,TR,Park,9,420CRF,403,24
+80436,Intro to Engineering,MW,Slhoub,36,410GLE,107,241
+80436,Intro to Engineering,T,Slhoub,12,460SKU,110,59
+80436,Intro to Engineering,T,Slhoub,12,420CRF,527,12
+80436,Intro to Engineering,R,Slhoub,12,420CRF,212,17
+80537,Quality Engineering,W,Webster,10,500OLS,129,32
+80538,Project Engineering,R,Gaal,15,460SKU,116,22
+80595,Engr Operations & Logi,T,Webster,12,403QAD,118,12
+81902,Tech Commercial Strate,M,Gaal,12,460SKU,121,16
+81690,Strat An w/Game Theory,F,Webster,17,460SKU,106,22
+80452,The Whole Earth Course,TR,TBA,29,410GLE,107,241
+80249,Atmospheric Environmen,TR,Lazarus,15,500OLS,130,50
+80476,Environmental Hydrolog,TR,Bostater,14,420CRF,402,24
+81497,Spc Top in Enviro Sci,W,Tumbiolo,60,501OEC,118,73
+85655,Introduction to HCD,TR,Eskridge,5,501OEC,118,73
+81832,Usability Engineering,M,Eskridge,5,402QAD,110,18
+81833,Industrial HCD,W,Doule,5,502OPS,144,17
+81833,Industrial HCD,W,Doule,5,460SKU,116,22
+85071,Honors Seminar,TR,Souris Smith,17,410GLE,107,241
+80580,Civ 1: Ancient-Medieva,TR,Tenga,24,420CRF,402,24
+80381,Civ 1: Ancient-Medieva,MWF,Stanfield,24,500OLS,130,50
+80474,Civ 1: Ancient-Medieva,MWF,Rosiene,13,501OEC,118,73
+80410,Civ 1: Ancient-Medieva,MWF,Stanfield,24,410GLE,107,241
+81025,Civ 1: Ancient-Medieva,TR,Tenga,20,420CRF,401,24
+85090,Civ 1: Ancient-Medieva,TR,Jones,12,500OLS,129,32
+82104,Civ 1: Ancient-Medieva,TR,Jones,17,460SKU,110,59
+81217,Civ 1: Ancient-Medieva,MWF,Rosiene,12,403QAD,116,21
+80995,Civ 1: Ancient-Medieva,TR,Jones,12,410GLE,107,241
+80665,Civ 2: Renaissance-Mod,MWF,Zhang,24,410GLE,107,241
+85557,Civ 2: Renaissance-Mod,MWF,Smith,22,420CRF,401,24
+80536,Civ 2: Renaissance-Mod,TR,Ivey,23,501OEC,118,73
+85558,Civ 2: Renaissance-Mod,MWF,Smith,12,460SKU,106,22
+82859,Civ 2: Renaissance-Mod,MWF,Zhang,12,119EVH,202,13
+85047,Intro to Asian Civ,MWF,Patterson,18,420CRF,402,24
+85048,Intro to Asian Civ,MWF,Patterson,12,428EVL,133,68
+84753,Critical Approaches,MWF,Wyman,12,501OEC,118,73
+84451,World Art History 1,TR,Jones,16,403QAD,117,17
+84452,British Lit & Culture,MWF,Crofton,12,460SKU,116,22
+84453,British Lit & Culture,MWF,Crofton,22,420CRF,402,24
+84454,Brit & Amer Lit 2,TR,Lelekis,13,402QAD,113,18
+85564,Lit: Voice & Vision,TR,Lelekis,12,403QAD,114,12
+85072,Amer Hist to Civil War,MWF,Ruane,24,420CRF,404,24
+83695,Amer Hist to Civil War,MWF,Ruane,24,420CRF,403,24
+84455,Amer Hist Recons to Pr,TR,Ivey,17,420CRF,403,24
+85559,Amer Hist Recons to Pr,TR,Ivey,24,500OLS,130,50
+85051,Intro to Political Sci,TR,Zhang,12,710FTC,258,16
+80879,Logic,TR,Aberdein,22,420CRF,402,24
+84456,Ancient/Mediev Philoso,TR,Mizrahi,24,410GLE,107,241
+85052,Ancient/Mediev Philoso,TR,Mizrahi,24,420CRF,220,27
+85560,Modern/Contemp Philoso,MWF,Souris Smith,22,500OLS,129,32
+85561,Modern/Contemp Philoso,MWF,Souris Smith,23,420CRF,401,24
+84458,Bioethics,MWF,Pike,15,502OPS,140,28
+85562,Bioethics,MWF,Pike,19,500OLS,130,50
+85566,Serial Killers in Fict,TR,Tenga,24,420CRF,112,49
+85567,Enviro Lit & Society,MWF,Dorfeld,20,403QAD,116,21
+80378,Hist of Sci: Anct & Me,MWF,Patterson,19,428EVL,133,68
+84717,Spc Top in History,TR,Taylor,17,500OLS,129,32
+83700,Constitutional Law 1,MWF,Pike,10,460SKU,102,22
+85563,Engineering Ethics,TR,Mizrahi,16,500OLS,130,50
+85568,Spc Top in Philosophy,TR,Aberdein,22,502OPS,140,28
+80055,Elementary French 1,MWF,Baika,12,428EVL,133,68
+82006,Elementary French 1,MWF,Walker,17,420CRF,112,49
+80475,Elementary German 1,MWF,Baika,12,460SKU,116,22
+80056,Elementary Spanish 1,MWF,Montoya,19,420CRF,112,49
+80057,Elementary Spanish 1,MWF,Montoya,21,500OLS,130,50
+81757,Elementary Spanish 1,MW,Cornelius,19,420CRF,210,27
+82181,Elementary Spanish 2,MWF,Montoya,12,410GLE,107,241
+85049,Elementary Japanese 1,MWF,Kagunda,15,402QAD,110,18
+85060,Elementary Japanese 1,MWF,Kagunda,12,424LNK,256,14
+80808,Elementary Italian 1,MWF,Baika,12,460SKU,106,22
+81539,Chinese Lang & Culture,MWF,TBA,14,420CRF,210,27
+83049,Intermediate French 1,MWF,Baika,12,460SKU,106,22
+80058,Intermediate Spanish 1,MWF,Montoya,12,460SKU,121,16
+81695,Advanced Spanish 1,MWF,Montoya,12,402QAD,110,18
+84295,General Ecology,MWF,Miller,25,500OLS,129,32
+84297,Invertebrate Zoology,MWF,Aronson,21,428EVL,133,68
+85621,Evolution,MWF,Daly-Engel,25,410GLE,107,241
+84299,Conservation Biology,MWF,Bush,14,402QAD,113,18
+84301,Intro to Modeling & Bi,TR,van Woesik,8,501OEC,118,73
+84302,Comparative Vertebrate,MWF,Turingan,19,460SKU,120,22
+85127,Fisheries Management,TR,Turingan,16,402QAD,113,18
+84305,Marine Biology,MWF,Fire,21,420CRF,402,24
+84359,Design & Analysis Eco,MWF,Miller,8,410GLE,107,241
+84365,Biological Sciences Se,W,TBA,30,410GLE,107,241
+84199,Intro to Mech Eng,MW,Sen,48,410GLE,107,241
+84206,Solids Modeling,T,Willard,32,410GLE,107,241
+84207,Solids Modeling,R,Willard,27,410GLE,107,241
+84210,Appld Mech: Statics,TR,TBA,43,410GLE,107,241
+84211,Appld Mech: Statics,TR,TBA,60,410GLE,107,241
+84212,Appld Mech: Statics,TR,TBA,27,410GLE,107,241
+85148,Appld Mech: Statics,MW,TBA,30,410GLE,107,241
+84213,Appld Mech: Dynamics,TR,TBA,22,501OEC,118,73
+84214,Appld Mech: Dynamics,TR,TBA,45,500OLS,130,50
+84216,Dsgn Machine Elements,TR,Sen,48,500OLS,130,50
+84217,Dsgn Machine Elements,MWF,TBA,22,410GLE,107,241
+85650,Theory of Machines,TR,TBA,50,500OLS,130,50
+84218,Engr Thermodynamics 1,TR,Micklow,32,460SKU,110,59
+84219,Engr Thermodynamics 1,MWF,Wang,30,710FTC,244,42
+84220,Engr Thermodynamics 2,TR,Micklow,75,Hartley,1,115
+85149,Engr Thermodynamics 2,MWF,Wang,59,410GLE,107,241
+84222,Mech Vibrations,MWF,Shaw,50,410GLE,107,241
+84224,Thermal Systems Design,MW,Najafi,59,410GLE,107,241
+84230,Princ of Heat Transfer,TR,Pahinkar,18,420CRF,402,24
+85651,HVAC,MWF,Najafi,27,710FTC,244,42
+84232,Mech Eng Dsgn 1,MWF,Kames,75,Hartley,1,115
+85181,Modeling Dynamic Syste,TR,Gutierrez,31,Hartley,1,115
+85652,Conduction Heat Transf,TR,Mitra,12,460SKU,206,15
+84666,Mechatronics,TR,Gutierrez,17,460SKU,116,22
+85653,Frac Mech/Fatigue Matl,TR,Yang,22,460SKU,120,22
+85153,Comp Mat Sci & Eng,TR,Wang,22,420CRF,112,49
+85154,Design for Manufacturi,TR,Mingareev,22,420CRF,230,27
+85658,Automotive Powertrains,TR,Micklow,22,500OLS,130,50
+80745,Precalculus,MWF,Jones,36,410GLE,107,241
+80745,Precalculus,TR,Jones,18,410GLE,107,241
+80160,Precalculus,TR,Jones,18,420CRF,403,24
+80334,Precalculus,MWF,Jones,40,Hartley,1,115
+81289,Precalculus,MW,TBA,10,502OPS,140,28
+81289,Precalculus,TR,TBA,28,410GLE,107,241
+81865,Precalculus,MW,TBA,18,403QAD,116,21
+82048,Calculus 1,MWF,Girton,48,410GLE,107,241
+82048,Calculus 1,TR,Girton,25,420CRF,230,27
+82049,Calculus 1,TR,Girton,23,410GLE,107,241
+80156,Calculus 1,MWF,Kovats,28,410GLE,107,241
+80156,Calculus 1,TR,Kovats,13,500OLS,130,50
+80157,Calculus 1,TR,Kovats,15,500OLS,129,32
+80158,Calculus 1,MWF,Kiguradze,22,420CRF,112,49
+80158,Calculus 1,TR,Kiguradze,11,402QAD,113,18
+80601,Calculus 1,TR,Kiguradze,11,118RBT,117,11
+80470,Calculus 1,MWF,Jones,30,410GLE,107,241
+80470,Calculus 1,TR,Jones,17,500OLS,129,32
+80423,Calculus 1,TR,Jones,13,402QAD,111,18
+81405,Calculus 1,MWF,Knoll,36,710FTC,244,42
+81405,Calculus 1,TR,Knoll,20,502OPS,140,28
+81525,Calculus 1,TR,Knoll,16,420CRF,403,24
+82291,Calculus 1,MWF,Girton,25,460SKU,110,59
+82291,Calculus 1,TR,Girton,13,402QAD,110,18
+82292,Calculus 1,TR,Girton,12,710FTC,245,16
+80159,Calculus 1,MWF,Knoll,50,410GLE,107,241
+80159,Calculus 1,R,Knoll,25,420CRF,230,27
+80399,Calculus 1,R,Knoll,25,420CRF,210,27
+82664,Calculus 1,MWF,Knoll,27,410GLE,107,241
+82664,Calculus 1,TR,Knoll,13,420CRF,210,27
+82665,Calculus 1,TR,Knoll,14,501OEC,118,73
+82106,Calculus 2,MWF,Shaw,28,428EVL,133,68
+82106,Calculus 2,TR,Shaw,14,500OLS,130,50
+82070,Calculus 2,TR,Shaw,14,460SKU,120,22
+80161,Calculus 2,MWF,Shaw,22,420CRF,230,27
+80161,Calculus 2,TR,Shaw,12,Hartley,1,115
+80328,Calculus 2,TR,Shaw,10,402QAD,113,18
+80395,Calculus 2,MWF,Shaw,34,410GLE,107,241
+80395,Calculus 2,TR,Shaw,8,118RBT,118,11
+80449,Calculus 2,TR,Shaw,26,420CRF,230,27
+81866,Calculus 2,MWF,Shaw,27,710FTC,244,42
+81866,Calculus 2,TR,Shaw,14,460SKU,102,22
+81985,Calculus 2,TR,Shaw,13,500OLS,129,32
+83713,Honors Calculus 1,MWF,Goldfarb,15,420CRF,402,24
+82185,Precalculus A,MW,TBA,22,501OEC,118,73
+82532,Precalculus B,MW,TBA,22,410GLE,107,241
+85626,Appld Calc & Statistic,MWF,Vorke,50,410GLE,107,241
+80412,College Algebra,M,Vorke,40,501OEC,118,73
+81010,Applied Calculus,MWF,White,22,420CRF,403,24
+80166,Calculus 3,MW,Perera,33,710FTC,244,42
+80166,Calculus 3,TR,Perera,33,Hartley,1,115
+80167,Calculus 3,MW,Girton,55,410GLE,107,241
+80167,Calculus 3,TR,Girton,55,428EVL,133,68
+80784,Calculus 3,MW,Girton,28,501OEC,118,73
+80784,Calculus 3,TR,Girton,28,710FTC,244,42
+82107,Calculus 3,MW,Snelson,55,460SKU,110,59
+82107,Calculus 3,TR,Snelson,55,410GLE,107,241
+80168,Calculus 3,MW,Snelson,22,502OPS,140,28
+80168,Calculus 3,TR,Snelson,22,460SKU,106,22
+84466,Honors Calculus 3,MW,Snelson,12,501OEC,118,73
+84466,Honors Calculus 3,TR,Snelson,12,420CRF,212,17
+80553,Diff Equat/Linear Alge,MW,Kovats,28,501OEC,118,73
+80553,Diff Equat/Linear Alge,TR,Kovats,28,710FTC,244,42
+80170,Diff Equat/Linear Alge,MW,Tenali,30,710FTC,244,42
+80170,Diff Equat/Linear Alge,TR,Tenali,30,710FTC,244,42
+80169,Diff Equat/Linear Alge,MW,Tenali,28,710FTC,244,42
+80169,Diff Equat/Linear Alge,TR,Tenali,28,710FTC,244,42
+80785,Diff Equat/Linear Alge,MW,Kovats,24,420CRF,230,27
+80785,Diff Equat/Linear Alge,TR,Kovats,24,420CRF,403,24
+82108,Diff Equat/Linear Alge,MW,Snelson,42,410GLE,107,241
+82108,Diff Equat/Linear Alge,TR,Snelson,42,410GLE,107,241
+80272,Probability/Statistics,MWF,Nezamoddini-K,48,501OEC,118,73
+80323,Probability/Statistics,MWF,White,48,500OLS,130,50
+80878,Complex Variables,TR,Wood,24,420CRF,402,24
+85625,Intro to Linear Algebr,MWF,Welters,44,500OLS,130,50
+81686,Intro to PDE & Apps,TR,Abdulla,57,410GLE,107,241
+81687,Intro to PDE & Apps,TR,Kiguradze,49,Hartley,1,115
+85801,Scientific Computing,MW,Goldfarb,18,460SKU,120,22
+80173,Introductory Analysis,TR,Tenali,15,410GLE,107,241
+85140,Honors Analysis,MW,Perera,10,501OEC,118,73
+80172,Numerical Analysis,TR,Du,21,420CRF,403,24
+85141,Neural Networks,TR,White,28,710FTC,244,42
+80816,Intro to Optimization,TR,Subasi,22,420CRF,401,24
+81868,Applied Discrete Mathe,MW,Dshalalow,24,502OPS,140,28
+85624,Linear Algebra,MW,Welters,20,420CRF,402,24
+80271,Math Methods Sci/Engr,TR,Kiguradze,27,420CRF,230,27
+80359,Numerical Analysis,TR,Du,10,420CRF,112,49
+80682,Mathematical Statistic,MW,Nezamoddini-K,15,410GLE,107,241
+85623,Queuing Theory,MW,Dshalalow,10,402QAD,110,18
+82413,Computer Apps in OE 1,MWF,Wood,17,403QAD,116,21
+80228,Fluid Mechanics,MWF,Reichard,59,501OEC,118,73
+81876,Composite Design,MWF,Reichard,16,500OLS,129,32
+81200,Protection Marine Matl,TR,Swain,35,420CRF,112,49
+80230,Coastal Engr: Structur,MWF,Weaver,31,428EVL,133,68
+80788,Instr Design & Anlys,TR,TBA,10,460SKU,103,12
+80275,Hydroacoustics,MWF,Wood,28,710FTC,244,42
+81875,Port & Harbor Design,TR,TBA,10,460SKU,110,59
+84651,Des of Mar Vehicles,TR,Sahoo,11,420CRF,527,12
+83732,Des of Hi Speed Sm Cra,TR,Sahoo,17,420CRF,230,27
+81068,Spc Top in Ocean Engr,W,Wood,50,501OEC,118,73
+84472,Corrosion Eng,TR,Swain,10,420CRF,220,27
+83734,Des Marine Prop Sys,TR,Sahoo,10,403QAD,114,12
+80234,Ocean Engineering Semi,W,Wood,70,410GLE,107,241
+85117,Oceanography,TR,Hunsucker,12,460SKU,206,15
+81183,Oceanography,TR,Ralston,32,Hartley,1,115
+80384,Environmental Geology,M,Zarillo,4,460SKU,120,22
+80675,Environmental Geology,M,Zarillo,6,402QAD,113,18
+80676,Environmental Geology,TR,Zarillo,26,420CRF,230,27
+80114,Marine/Enviro Chemistr,TR,Fox,9,420CRF,609,12
+80124,Physical Oceanography,TR,Bostater,45,410GLE,107,241
+80125,Physical Oceanography,M,Bostater,10,420CRF,401,24
+80128,Physical Oceanography,M,Bostater,10,420CRF,609,12
+85639,Mar/Estuarine Zooplank,TR,Johnson,14,460SKU,121,16
+80741,Mitigation Rest Coast,M,TBA,20,460SKU,110,59
+83768,Spc Top in Oceanograph,W,Johnson,10,460SKU,120,22
+80832,Spc Top in Oceanograph,TR,Hunsucker,17,420CRF,402,24
+84473,Marine/Enviro Chemistr,TR,Fox,9,402QAD,111,18
+80218,Prin/Physical Oceanogr,TR,Bostater,10,420CRF,610,12
+80219,Oceanography Seminar,W,Wood,30,710FTC,244,42
+81100,Physics 1,MTRF,Harris,44,410GLE,107,241
+81099,Physics 1,MTRF,Harris,44,460SKU,110,59
+80204,Physics 1,MTRF,Gering,43,500OLS,130,50
+82124,Physics 1,MTRF,Gering,44,428EVL,133,68
+84708,Physics 1,MTRF,Hohlmann,44,410GLE,107,241
+81787,Physical Concepts,MTRF,TBA,10,460SKU,116,22
+80202,Physics/Space Sci Semi,W,Batcheldor,70,501OEC,118,73
+80206,Physics 2,MTRF,Riousset,24,501OEC,118,73
+80205,Physics 2,MTRF,Sawyer,44,500OLS,130,50
+81101,Physics 2,MTRF,TBA,50,410GLE,107,241
+82116,Physics 2,MTRF,TBA,59,428EVL,133,68
+82965,Physics 2,MTRF,TBA,59,501OEC,118,73
+82117,Physics 2,MTRF,TBA,59,410GLE,107,241
+80815,Modern Physics,MWF,Yumiceva,59,501OEC,118,73
+80594,Physical Mechanics,TR,Zhang,49,410GLE,107,241
+80594,Physical Mechanics,F,Zhang,49,410GLE,107,241
+80620,Thermo K. Th. St. Mech,TR,Perlman,46,Hartley,1,115
+80620,Thermo K. Th. St. Mech,F,Perlman,46,500OLS,130,50
+80207,Optics,MWF,Rostami Fairc,32,710FTC,244,42
+80701,Experiments in Optics,T,Yumiceva,12,420CRF,112,49
+84711,Experiments in Optics,R,Yumiceva,12,402QAD,111,18
+85783,Intro to Nuclear Physi,WF,Rybicki,13,403QAD,116,21
+80208,Senior Seminar 1,R,Batcheldor,42,410GLE,107,241
+81810,Forensic Psychology,MW,Conradt,18,428EVL,133,68
+83568,Crime Analysis,F,Stallo,20,420CRF,230,27
+83568,Crime Analysis,S,Stallo,20,420CRF,112,49
+81011,Forensic Identificatio,TR,Jones,28,501OEC,118,73
+81015,Spec Topics-Forensic P,F,Jones,20,420CRF,112,49
+81437,Forensic Clinical Psyc,MW,Costopoulos,21,460SKU,120,22
+81692,Crit Iss Child Advocac,TR,Bennett,20,420CRF,402,24
+80051,Psychology Seminar,F,Philbeck,46,500OLS,130,50
+82246,Psychology Seminar,F,Philbeck,45,500OLS,130,50
+80283,Intro to Psychology,MWF,TBA,20,410GLE,107,241
+81748,Intro to Psychology,TR,TBA,25,501OEC,118,73
+82052,Intro to Psychology,MWF,TBA,20,420CRF,401,24
+81268,Intro to Psychology,TR,Collins,20,420CRF,112,49
+81428,Intro to Psychology,TR,Collins,20,410GLE,107,241
+85139,Intro to Psychology,MWF,TBA,20,500OLS,130,50
+81749,Intro to Psychology,MW,TBA,20,460SKU,110,59
+80052,Substance Abuse,MW,Savage,20,420CRF,402,24
+81650,Human Sexuality,MW,Savage,20,420CRF,402,24
+82530,Cross-Cult & Ethnic Ps,TR,Che,19,420CRF,112,49
+83770,Research and Comp Lit,F,Huser,15,403QAD,117,17
+81392,Psych Research & Stats,MW,Converse,15,403QAD,117,17
+81433,Psych Research & Stats,TR,TBA,14,402QAD,113,18
+81780,Intro Behavior Analysi,TR,Harvey,20,420CRF,402,24
+80583,Psych Learning/Motivat,TR,TBA,24,410GLE,107,241
+81034,Physiological Psycholo,TR,TBA,22,501OEC,118,73
+80053,Social Psychology,MW,Edkins,21,420CRF,402,24
+82535,Psychology of Personal,TR,Milosevic,42,Hartley,1,115
+81211,Human Cognition,MW,TBA,20,420CRF,230,27
+81274,Child Psychology,TR,Chavez,20,Hartley,1,115
+81999,Child Psychology,MW,Conradt,20,428EVL,133,68
+82910,Pers/Prof Development,MW,TBA,20,501OEC,118,73
+82138,Res Meth & Stats 2,MW,Edkins,21,420CRF,220,27
+80499,Clinical Colloquium,F,Follette,92,410GLE,107,241
+81050,Pre-practicum,M,Aragon,27,500OLS,129,32
+80065,Statistical Res Meth 1,MW,Burns,23,500OLS,130,50
+82563,Statistical Res Meth 1,MW,Burns,24,500OLS,130,50
+80871,Life-span Development,M,Aragon,15,420CRF,112,49
+85070,Culture and Social Psy,R,TBA,25,420CRF,210,27
+80455,Intro IO Psychology,T,Che,30,420CRF,112,49
+80454,Applied Research Mthds,T,Griffith,30,428EVL,133,68
+80679,Personnel Selection,W,Converse,13,710FTC,244,42
+85279,Organizational Psych,R,Thayer,20,460SKU,110,59
+80066,Personality/Psychother,M,Tyc,27,710FTC,244,42
+80555,Psychopharmacology,M,TBA,20,403QAD,116,21
+80067,Assessment of Intellig,TR,Krishnamurthy,27,420CRF,230,27
+81602,Clin Skills/Techniques,W,Elmore,27,420CRF,230,27
+81293,Psychodynamic Models,W,Whitacre,25,410GLE,107,241
+85614,Child Disorders,T,Chavez,12,402QAD,113,18
+81013,Seminar/Ethics 1,W,Follette,27,500OLS,129,32
+80333,Spvsd Clin Exp (FLP),T,Bennett,10,420CRF,230,27
+80500,Spvsd Clinical Exp,T,Bennett,10,420CRF,525,12
+80556,Spvsd Clin Exp,R,LoGalbo,5,502OPS,144,17
+85612,Fund of Forensic Psych,R,Costopoulos,15,428EVL,133,68
+80872,Supervised Research,W,Steelman,10,502OPS,140,28
+80078,Psychodiagnostics,MW,Farber,10,420CRF,212,17
+85613,Fund of Clin Neuropsyc,T,LoGalbo,12,460SKU,219,15
+82915,Supervision Clin Train,W,Elmore,20,460SKU,106,22
+81558,Clinical App Beh Healt,W,Tyc,22,420CRF,230,27
+82673,Clinical Internship Pr,F,Aragon,10,424LNK,256,14
+80875,American Criminal Just,MW,Goodyear,20,460SKU,106,22
+81035,Juvenile Delinquency,TR,Jones,17,420CRF,230,27
+81237,Intro to Space Science,TR,TBA,37,501OEC,118,73
+83353,Intro to Space Science,TR,Harris,27,500OLS,129,32
+80747,Methods and Instrument,MWF,Caballero-Nie,29,500OLS,130,50
+80209,Astrophysics 1,MWF,Caballero-Nie,24,420CRF,220,27
+85785,Phy & Chm of Planet Fo,TR,Palotai,9,410GLE,107,241
+83573,Research Techniques,MW,Riousset,18,420CRF,402,24
+84264,Intro Sustain,TR,Lindeman,22,500OLS,130,50
+84265,Sustainability Proj De,W,Lindeman,16,403QAD,117,17
+85106,Adv Software Engineeri,TR,Bhattacharyya,15,420CRF,210,27
+84662,Requirements Engineeri,T,Doule,4,420CRF,402,24
+85604,Advanced Software Test,MWF,Slhoub,15,420CRF,403,24
+81519,Sys Eng Principles,R,Arrasmith,13,403QAD,117,17
+82851,Model-Based Systems En,W,Fabregas Ariz,16,710FTC,245,16
+81119,Sys Modeling & Analysi,M,Otero,8,439SHP,107,9
+85104,System Architecture,R,Doule,8,420CRF,112,49
+82000,English Writing Review,MWF,Caza,10,710FTC,245,16
+82549,English Writing Review,MWF,Caza,10,460SKU,116,22
+82022,English Writing Review,TR,Griggs-Pastra,11,460SKU,102,22
+82029,English Writing Review,TR,Griggs-Pastra,11,500OLS,130,50
+82028,English Writing Review,MWF,Caza,10,402QAD,113,18
+82066,English Writing Review,TR,Brewer,11,460SKU,102,22
+82009,College English Gramma,MWF,Creedon,11,460SKU,219,15
+82010,College English Gramma,TR,Brewer,11,118RBT,118,11
+82011,College English Gramma,MWF,Creedon,11,402QAD,111,18
+82012,College English Gramma,MWF,Creedon,11,403QAD,114,12
+82013,College English Gramma,TR,Brewer,11,410GLE,107,241
+82014,College English Gramma,TR,Pardoe,11,501OEC,118,73
+84419,Creative Writing,TR,Lavelle,12,420CRF,402,24

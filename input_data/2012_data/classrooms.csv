@@ -1,0 +1,144 @@
+Unique ID,Class Name,Starting Session,Total Number of sessions,Capacity Number
+1,Human Fact in Man-Mach Systems,1,6,2
+2,AutoCAD for Airport Environ,31,6,2
+3,Imp of Avt on Hum Physiology,31,6,2
+4,Unmanned Aerial Sys,1,6,2
+5,Quant Res in Aviation,7,3,2
+6,Analysis Aviation Res,19,3,2
+7,Char of Behavior Analysis,31,6,3
+8,Cardiovascular Eng,7,3,2
+9,Legal & Social Env of Bus,25,6,5
+10,Legal & Social Env of Bus,31,6,5
+11,Managerial Accounting,25,6,3
+12,Corporate Finance,13,6,4
+13,Sys Analysis/Design,31,6,2
+14,Strategic Management,31,6,3
+15,Investment Management,1,6,2
+16,Investment Analysis,1,6,1
+17,Environ and Resource Econ,1,6,2
+18,Enviro & Resource Economics,1,6,2
+19,Leadership Theory & Pract,1,6,3
+20,Entrepren & Innovation,31,6,3
+21,New Prod Develop,13,6,3
+22,Chemistry Seminar,31,3,3
+23,Senior Research Seminar,31,3,3
+24,Chemistry Graduate Seminar,31,3,3
+25,Chemistry Thesis Seminar,31,3,3
+26,Green Chemistry,25,6,2
+27,Medicinal Chemistry,13,6,2
+28,Advanced Programming,1,5,2
+29,Operating Systems,31,5,3
+30,Int of Database Sys,13,5,2
+31,Topics in Comput Info Sys,25,5,3
+32,Systems Administration,25,5,2
+33,Project & Change Control,13,5,3
+34,Composition and Rhetoric,19,3,3
+35,Composition and Rhetoric,7,3,3
+36,Composition and Rhetoric,19,3,3
+37,Composition and Rhetoric,22,3,3
+38,Writing About Literature,7,3,3
+39,Sci/Tech Comm,19,3,2
+40,Mass Communication,13,6,2
+41,Composition and Rhetoric,22,3,3
+42,Comm Research Methods,7,3,2
+43,Preparing Academic Docs,25,5,2
+44,Construction Methods,19,3,2
+45,Intro Ana of Algorithms,7,3,2
+46,Analysis of Algorithms,10,3,2
+47,Software Testing 1,19,3,2
+48,Artificial Intelligence,7,3,1
+49,Intro Art Intelligence,7,3,1
+50,Adv Java Concepts,19,3,2
+51,Topics in CS,19,3,2
+52,Adv Topics in CS,10,3,2
+53,Software Design Methods,22,3,3
+54,Advanced Computer Vision,1,6,2
+55,Database Systems,19,3,3
+56,Topics in CS,10,3,2
+57,Struct Ana and Design,7,3,3
+58,Construction Engrng,19,3,3
+59,Comp and Info Security,7,3,2
+60,Computer Architecture,10,3,7
+61,Linear Systems 1,22,3,5
+62,Microcomputer Systems 1,19,3,2
+63,Communications Theory,7,3,4
+64,Radio Frequency Propagation,19,3,5
+65,Digital Signal Process 1,10,3,4
+66,Computer Networks 1,22,3,4
+67,Semiconductor Dev Theory,22,3,2
+68,Search & Decoding in SR,7,3,2
+69,Pattern Recognition,19,3,2
+70,Fiberoptic Sensor Systems,7,3,2
+71,Antennas 1,10,3,2
+72,Wireless Sensor Networks,10,3,3
+73,Student Teaching 1,1,4,2
+74,Readings in Ed Research,25,6,2
+75,Essentials of Ed Research,19,3,3
+76,Foundations & Mgt of Inst,31,6,1
+77,Ed Strategies for ESOL,25,6,1
+78,Intro Computers in Ed,25,6,3
+79,Statistics for Ed Resch,22,3,2
+80,ESOL Teaching Strategies,25,6,1
+81,Envir Prob & Issue Invest,22,3,2
+82,Project Engineering,31,6,2
+83,Enviro Opt & Remote Sen,25,6,2
+84,Rad & Envir Protection,19,3,2
+85,Rad & Enviro Protection,19,3,2
+86,Adv Interaction Media,1,6,1
+87,Civ 1: Ancient-Medieval,19,3,3
+88,Civ 2: Renaissance-Modern,7,3,3
+89,Civ 1: Ancient-Medieval,7,3,3
+90,Spc Top in History,19,3,3
+91,Spc Top in Literature,19,3,2
+92,Critical Approaches,7,3,2
+93,Elementary Spanish 1,10,3,3
+94,Appld Mech: Statics,7,3,7
+95,Engr Thermodynamics 1,19,3,5
+96,Mech of Materials,22,3,7
+97,Viscous Flows,10,3,3
+98,Fluid Mechanics,7,3,7
+99,Elasticity,7,3,3
+100,Radiological Engineering,22,3,2
+101,Computnl Fluid Dynamics,19,3,3
+102,Gasdynamics,7,3,3
+103,Sel Top Mechs/Struc/Matls,22,3,3
+104,Radiation Heat Transfer,7,3,3
+105,Crashworthiness,19,3,3
+106,Spc Top in Mech Engr,7,3,2
+107,Calculus 3,7,2,5
+108,Math Methods Sci/Engr 1,10,3,3
+109,Numerical Analysis,7,3,3
+110,Mathematical Statistics 1,7,3,3
+111,Intro to Optimization,19,3,2
+112,Precalculus,7,3,3
+113,Intro to PDE & Apps,19,3,5
+114,Intermediate Algebra,3,2,5
+115,Precalculus,10,3,3
+116,Applied Discrete Mathematics,22,3,1
+117,Special Topics,19,3,3
+118,Real Variables 1,10,3,3
+119,Math Methods Sci/Engr 1,7,3,3
+120,Instr Design & Anlys,13,6,2
+121,Oceanic Remote Sensing,16,3,1
+122,Rem Sensing Oceanography,16,3,1
+123,Deterministic OR Models,19,3,1
+124,Intro to Karate,21,2,2
+125,Coaching Basketball,33,4,2
+126,Analytical Mechanics 1,19,3,2
+127,Electromagnetic Theory 1,22,3,3
+128,Psychopharmacology,25,6,3
+129,Life-span Development,1,6,3
+130,Human Sexuality,19,3,2
+131,Intro to Psychology,7,3,1
+132,Psychopharmacology,13,6,2
+133,Planetary Sci 1: Interiors,7,3,2
+134,Software Engineering 1,19,3,3
+135,Sp Topics in SE,10,3,1
+136,Project Engineering,31,6,1
+137,Adv Top in Sys Mod & Ana,25,6,1
+138,Adv Top in Process Eng,31,6,1
+139,Seminar in SE,25,6,1
+140,Systems Requirements,13,6,2
+141,Systems Req Analysis,13,6,1
+142,College English Grammar,19,3,2
+143,College English Grammar,22,3,3
